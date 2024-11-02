@@ -29,11 +29,6 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-```
-Name : MUHAMMAD AFSHAN A
-Reg No : 212223100035
-```
-
 ## OUTPUT:
 ### IPCONFIG
 ![alt text](ip.png)
